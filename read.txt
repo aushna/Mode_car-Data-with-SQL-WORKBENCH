@@ -1,0 +1,29 @@
+#                                ANALYSIS OF THE MODEL CAR DATABASE WITH MYSQL WORKBENCH
+
+PROJECT OVERVIEW:
+This project focuses on analyzing data from the Mint Classics database, a fictional company, i will put all my knowdlege and anlayze all the queries and handle the issues efficiently.
+
+
+Data Analysis: Using SQL to extract meaningful insights from the Mint Classics database.
+Business Context Understanding: Gaining insights into the structure of the database and the operational aspects of Mint Classics to provide practical recommendations.
+
+Tools Utilized:
+
+MySQL Workbench: For loading the database, executing queries, and analyzing results.
+Tasks Completed in the Project:
+Importing the Database: Loading the Mint Classics data into MySQL Workbench. Gaining familiarity with the database structure and understanding the operations of Mint Classics.
+Analyzing Issues and Identifying Key Data Tables: Using SQL queries to investigate the business problems and pinpoint the relevant data.
+Drawing Conclusions: Crafting detailed findings and presenting them with supporting data from SQL queries.
+Key Analysis Areas:
+The project included analysis of the following questions,
+Total inventory: Represents the total quantity of products available across all warehouses or locations.
+Office Invnetory: Summed up total number of office employees in the city 
+Employee Performance: Evaluating employee contributions to sales to recognize top performers.
+Pricing Inventory: In the dataset likely refers to analyzing the amounts customers have paid for purchases, along with trends in pricing.
+Payment Inventory: Payment inventory refers to the analysis of the relationship between customer payments and the available product inventory. 
+
+
+
+
+
+
